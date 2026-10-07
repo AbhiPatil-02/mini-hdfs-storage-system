@@ -1,0 +1,7 @@
+{
+  "node_id": "node1_client",
+  "role": "client",
+  "ip": "172.22.33.135",
+  "namenode_ip": "172.22.78.202",
+  "namenode_port": 5000
+}

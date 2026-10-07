@@ -1,0 +1,16 @@
+{
+    "node_id": "DataNode_0",
+    "ip": "172.22.85.144",
+    "port": 7000,
+    "namenode_ip": "172.22.78.202",
+    "namenode_port": 5000,
+    "heartbeat_interval": 10,
+    "debug": true,
+    "secondaries": [
+        {
+            "node_id": "DataNode_1",
+            "ip": "172.22.105.189",
+            "port": 7001
+        }
+    ]
+}

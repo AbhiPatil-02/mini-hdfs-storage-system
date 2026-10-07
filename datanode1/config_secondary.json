@@ -1,0 +1,10 @@
+{
+    "node_id": "node4_datanode1",
+    "ip": "172.22.105.189",
+    "port": 7001,
+    "namenode_ip": "172.22.78.202",
+    "namenode_port": 5000,
+    "heartbeat_interval": 5,
+    "debug": true,
+    "role": "datanode_secondary"
+}

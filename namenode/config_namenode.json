@@ -1,0 +1,9 @@
+{
+  "node_id": "node2_namenode",
+  "ip": "127.0.0.1",
+  "namenode_port": 5000,
+  "datanode_port": 7000,
+  "replication_factor": 2,
+  "chunk_size": 2097152,
+  "debug": true
+}
